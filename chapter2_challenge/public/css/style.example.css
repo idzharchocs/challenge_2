@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* start css content */
+.navbar-nav {
+  gap: 16px;
+}
+.btn {
+  background-color: rgb(146, 243, 1);
+  box-shadow: 3px;
+}
+#tgl {
+  margin-top: 15px;
+  align-items: center;
+  justify-content: center;
+  padding: 13px;
+}
+
+#btnCari {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.Box {
+  background-color: rgb(238, 249, 249);
+}
+/* #footer {
+  margin-right: 1.5rem;
+  margin-top: 5rem;
+  display: flex;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  justify-content: space-between;
+  flex-wrap: wrap;
+} */
+#service-2 {
+  font-weight: bold;
+}
+#service-1 {
+  margin: 10px;
+  margin-left: 20px;
+}
